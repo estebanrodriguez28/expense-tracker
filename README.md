@@ -8,14 +8,14 @@ ExpenseTracker is an android app designed to organize expenses. The app was buil
 
 ![Screen Shot 2024-01-07 at 5 01 24 PM](https://github.com/estebanrodriguez28/MindMastery/assets/114773169/b6bb029a-2cb1-4d7c-979d-202be844b476)
 
-### Step 2: Enter in the information for the expense you want to add including a title, amount, and category. The click the save button.
+### Step 2: Enter in the information for the expense you want to add including a title, amount, and category. Then click the save button.
 
 ![Screen Shot 2024-01-07 at 5 03 28 PM](https://github.com/estebanrodriguez28/MindMastery/assets/114773169/34a554f4-8deb-4617-90e9-cb77ace78c10)
 
 ### After saving the expense, you will be taken to the home screen and the expense you created will show up. The expense will also be added to the database.
 ![Screen Shot 2024-01-07 at 5 04 51 PM](https://github.com/estebanrodriguez28/MindMastery/assets/114773169/a21a5a33-3b17-4b4e-8753-28886587c7c4) ![Screen Shot 2024-01-07 at 5 06 31 PM](https://github.com/estebanrodriguez28/MindMastery/assets/114773169/6756d78d-f6f8-4a01-9e48-e3d73427d5b5)
 
-### Click the information icon next to an expense will bring you to the edit screen where you can either delete or edit the expense. Click the delete button on the bottom left to delete the expense or click the update button on the bottom right to update the expense.
+### Clicking the information icon next to an expense will bring you to the edit screen where you can either delete or edit the expense. Click the delete button on the bottom left to delete the expense or click the update button on the bottom right to update the expense.
 
 #### Here is an example of changing the amount for an expense, the expense will be updated in the homescreen and in the database.
 
@@ -31,6 +31,9 @@ ExpenseTracker is an android app designed to organize expenses. The app was buil
 
 #### Sorting by category
 ![Screen Shot 2024-01-07 at 5 14 24 PM](https://github.com/estebanrodriguez28/MindMastery/assets/114773169/73947e81-1aea-4201-b963-d0fd9138353a)
+
+#### Database will keep track of all expenses added
+![Screen Shot 2024-01-07 at 5 16 26 PM](https://github.com/estebanrodriguez28/MindMastery/assets/114773169/c330a1ad-b09c-4c0a-97f0-72e39618f8e0)
 
 
 ## Getting Started
@@ -56,4 +59,4 @@ Before you begin, ensure you have met the following requirements:
 1. Open the project in Android Studio
 2. Build the project: Click on the "Build" in the top menu then select "Build Project"
 3. Run the app on an emulator or physical device : Click on the "Run" button in Android Studio then choose your target device and click "OK"
-4. 
+   
